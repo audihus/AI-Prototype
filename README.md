@@ -224,7 +224,7 @@ Vaping is prohibited in tourist areas and places of worship.
 
 ## 🗂️ Data Structure
 
-The chatbot uses a simple JSON-like structure stored in `RULES_DATA`:
+The chatbot uses a simple JSON-like structure stored in data.json:
 
 ```python
 {
@@ -242,9 +242,9 @@ The chatbot uses a simple JSON-like structure stored in `RULES_DATA`:
 
 To add more regulations:
 
-1. Open `chatbot_hukum.py`
-2. Add new entries to the `RULES_DATA` list
-3. Update `TOPIC_KEYWORDS` if adding new topics
+1. Open data.json
+2. Add new entries to the data.json list
+3. Update `TOPIC_KEYWORDS` in chatbot.py if adding new topics
 4. Restart the application
 
 ---
@@ -270,7 +270,7 @@ To add more regulations:
 
 ## 🔧 Technical Details
 
-### Supported Topics (v1.0)
+### Supported Topics
 
 | Topic | Keywords | Regions |
 |-------|----------|---------|
@@ -292,32 +292,6 @@ To add more regulations:
 
 ---
 
-## 📋 Roadmap
-
-### Planned Features
-
-- [ ] WhatsApp Bot Integration
-- [ ] Real-time notifications for new/updated regulations
-- [ ] PDF document upload and analysis
-- [ ] More comprehensive rule database
-- [ ] Multi-language support (Indonesian + English)
-- [ ] Search history and bookmarks
-- [ ] Export chat to PDF
-- [ ] Voice input support
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. **Add More Rules**: Expand the legal database
-2. **Improve NLP**: Better keyword detection
-3. **UI Enhancements**: Suggest design improvements
-4. **Bug Reports**: Report any issues you find
-
----
-
 ## ⚠️ Disclaimer
 
 **Important:** This is a prototype demonstration tool for educational purposes only. 
@@ -326,37 +300,3 @@ Contributions are welcome! Here's how you can help:
 - Consult licensed legal professionals for legal advice
 - The bot may not have the most current regulations
 - This tool does not constitute legal advice
-
----
-
-## 📄 License
-
-MIT License - feel free to use, modify, and distribute.
-
----
-
-## 👥 Credits
-
-- **Developer**: [Your Name]
-- **Mascot Design**: 👨‍⚖️ (Unicode Emoji)
-- **Framework**: Python Tkinter
-- **Inspired by**: The need for accessible legal information in Indonesia
-
----
-
-## 📞 Support
-
-For questions or issues:
-- Create an issue on GitHub
-- Email: your.email@example.com
-- Website: https://legalmate.example.com
-
----
-
-## 🌟 Show Your Support
-
-If you find this project helpful, please give it a ⭐ on GitHub!
-
----
-
-**Made with ❤️ for Indonesia's legal transparency**
