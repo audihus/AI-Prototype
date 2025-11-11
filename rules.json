@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "PERDA-BDG-12-2023",
+    "area": "Bandung",
+    "topic": "vape",
+    "snippet": "Vaping is banned in all indoor public places.",
+    "citation": "Perda Kota Bandung No.12/2023, Pasal 7(2)",
+    "status": "in_force",
+    "effective_date": "2023-06-01"
+  },
+  {
+    "doc_id": "PERMEN-THR-2025",
+    "area": "National",
+    "topic": "thr",
+    "snippet": "THR must be paid at least 7 days before the holiday; 1 month salary for >=12 months worked.",
+    "citation": "Permenaker 5/2025 Pasal 3",
+    "status": "in_force",
+    "effective_date": "2025-03-01"
+  },
+  {
+    "doc_id": "PERDA-JKT-PARKIR-2022",
+    "area": "Jakarta",
+    "topic": "parking",
+    "snippet": "Parking on sidewalks is prohibited and subject to administrative fines.",
+    "citation": "Perda DKI 3/2022 Pasal 12",
+    "status": "in_force",
+    "effective_date": "2022-01-01"
+  }
+]

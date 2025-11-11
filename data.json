@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "PERDA-BDG-12-2023",
+    "area": "Bandung",
+    "topic": "vape",
+    "snippet": "Vaping is banned in all indoor public places.",
+    "citation": "Perda Kota Bandung No.12/2023, Article 7(2)",
+    "status": "in_force",
+    "effective_date": "2023-06-01"
+  },
+  {
+    "doc_id": "PERMEN-THR-2025",
+    "area": "National",
+    "topic": "thr",
+    "snippet": "THR must be paid at least 7 days before the holiday; 1 month salary for >=12 months worked.",
+    "citation": "Permenaker 5/2025 Article 3",
+    "status": "in_force",
+    "effective_date": "2025-03-01"
+  },
+  {
+    "doc_id": "PERDA-JKT-08-2024",
+    "area": "Jakarta",
+    "topic": "parking",
+    "snippet": "Illegal parking on sidewalks is subject to a fine of Rp 500,000.",
+    "citation": "Perda DKI Jakarta No.8/2024, Article 15",
+    "status": "in_force",
+    "effective_date": "2024-01-15"
+  },
+  {
+    "doc_id": "UU-KETENAGAKERJAAN",
+    "area": "National",
+    "topic": "leave",
+    "snippet": "Employees are entitled to at least 12 working days of annual leave after 12 months of employment.",
+    "citation": "Law No.13/2003 Article 79(c)",
+    "status": "in_force",
+    "effective_date": "2003-03-25"
+  },
+  {
+    "doc_id": "PERDA-YK-05-2024",
+    "area": "Yogyakarta",
+    "topic": "vape",
+    "snippet": "Vaping is prohibited in tourist areas and places of worship.",
+    "citation": "Perda DIY No.5/2024, Article 12",
+    "status": "in_force",
+    "effective_date": "2024-03-01"
+  }
+]
